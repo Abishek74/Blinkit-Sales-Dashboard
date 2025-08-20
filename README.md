@@ -12,3 +12,6 @@ The dashboard is built and visualized in Power BI.
 
 ## Dataset
 Blinkit Grocery Sales dataset (sample dataset used for analysis).
+
+## Dashboard Preview
+![Dashboard Screenshot](Blinkit Dashboard.jpeg)
